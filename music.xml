@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <history>
+        <ancient>
+            <country region="Mesopotamia">
+                <instrument>
+                    <bovine-lyre>the most common stringed instrument of the mid-3rd millennium BC in the Near East.</bovine-lyre>
+                    <silver-flute>actually made from an alloy of “Sterling Silver” that contains 92.5% pure silver and usually 7.5% copper for strength. </silver-flute>
+                </instrument>
+            </country>
+            <country region="Egypt">
+                <instrument>
+                    <aerophones>create noise by pushing vibrating columns</aerophones>
+                    <oboes>double reed woodwind instrument</oboes>
+                </instrument>
+            </country>
+            <country region="Greece">
+                <instrument>
+                    <kithara>wooden soundbox</kithara>
+                    <bouzouki>long-necked plucked lute</bouzouki>
+                </instrument>
+            </country>
+            <country region="China">
+                <instrument>
+                    <guzheng string="26">plucked zither</guzheng>
+                    <pipa>four-string plucked lute</pipa>
+                </instrument>
+            </country>
+            <country region="India">
+                <instrument>
+                    <dhrupad>barrel drum</dhrupad>
+                    <sahnai>tube wood and metal</sahnai>
+                </instrument>
+            </country>
+        </ancient>
+    </history>
+
+    <culture>
+        
+    </culture>
+
+    <element>
+
+    </element>
+    
+    <genre>
+        <pop>
+            <song name="Uptown Funk">
+                <artist>Mark Ronson and Mark Ronson</artist>
+                <album>Uptown Special</album>
+                <release>
+                    <day>10</day>
+                    <month type"MMMM">November</month>
+                    <year>2014</year>
+                </release>
+            </song>
+        </pop>
+        <classical>
+            <song name="Ave Maria">
+                <artist>Charles Gounod</artist>
+                <album>First Noel</album>
+                <release>
+                    <year>1853</year>
+                </release>
+            </song>
+        </classical>
+        <rock>
+            <song name="Back in Black">
+                <artist>AC/DC</artist>
+                <album>Nippon 1981</album>
+                <release>
+                    <day>25</day>
+                    <month type"MMMM">July</month>
+                    <year>1980</year>
+                </release>
+            </song>
+        </rock>
+        <country>
+            <song name="I Walk the Line">
+                <artist>Johnny Cash</artist>
+                <album>Johnny Cash with His Hot and Blue Guitar!</album>
+                <release>
+                    <day>1</day>
+                    <month type"MMMM">May</month>
+                    <year>1956</year>
+                </release>
+            </song>
+        </country>
+        <jazz>
+            <song name="Take Five">
+                <artist>Dave Brubeck</artist>
+                <album>Time Out</album>
+                <release>
+                    <day>21</day>
+                    <month type"MMMM">September</month>
+                    <year>1959</year>
+                </release>
+            </song>
+        </jazz>
+    </genre>
+</music>
