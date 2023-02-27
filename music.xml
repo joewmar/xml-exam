@@ -34,23 +34,59 @@
             </country>
         </ancient>
     </history>
-
     <culture>
-        A. National and regional music
-        B. Religious music
-        C. Folk music
-        D. Protest music
-        E. Music and identity
+        <folk>
+            <discography>
+                <song name="Arbucklenian Polka">
+                    <artist>David B. Dana</artist>
+                    <release>1889</release>
+                    <rating>19</rating>
+                </song>
+                <song name="The Whistling Coon">
+                    <artist>George W. Johnson</artist>
+                    <release>1890</release>
+                    <rating>170</rating>
+                </song>
+            </discography>
+        </folk>
     </culture>
-
-    <element>
-        <!-- A. Melody
-        B. Harmony
-        C. Rhythm
-        D. Dynamics
-        E. Timbre -->
+    <element of="Music">
+        <melodies>
+            <melody type="Color Melodies">
+                <list key="emotion melodies">
+                    <item>1 (root): strong, hypnotic</item>
+                      <item>2: dreamy, open<item>
+                      <item>b3:sad <item>
+                      <item>3: happy<item>
+                      <item>4 (only in minor chords): dreamy, open<item>
+                      <item>5: strong, hypnotic<item>
+                      <item>b6: sad, tense<item>
+                      <item>6: grand<item>
+                      <item>b7: funky<item>
+                      <item>7: dreamy<item>
+                      <item>8: see 1<item>
+                </list>
+            </melody>
+            <melody type="Direction Melodies">
+                more different notes and don’t have a clear base pitch
+            </melody>
+            <melody type="Blends">
+                melodies that shift their base pitch every 1 or 2 bars. 
+            </melody>
+        </melodies>
+        <harmony>
+            <element of="Harmony">
+                <chords>three or more notes </chords>
+                <progressions>the foundation of harmony</progressions>
+                <modes>
+                    <ionian key="C">C D E F G A B C</ionian>
+                    <dorian key="D">D E F G A B C D</dorian>
+                    <phrygian key="E">E F G A B C D E</phrygian>
+                    <lydian key="F">F G A B C D E F</lydian>
+                </modes>
+            </element>
+        </harmony>
     </element>
-    
     <genre>
         <pop>
             <song name="Uptown Funk">
