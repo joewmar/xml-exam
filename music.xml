@@ -144,8 +144,8 @@
     </genre>
     <industry>
         <recording>
-            <company name="atlantic">
-                <founder>Ahmet Ertegun and Herb Abramson<founder>
+            <company name="atlantic records">
+                <founder>Ahmet Ertegun and Herb Abramson</founder>
                 <founded>
                     <month type="MMMM">November</month>
                     <year>1947</year>
@@ -158,10 +158,10 @@
                     </company>
                 </parent_organization>
             </company>
-        </recording >
+        </recording>
         <streaming>
             <company name="YouTube Music">
-                <founder>Ahmet Ertegun and Herb Abramson<founder>
+                <founder>Ahmet Ertegun and Herb Abramson</founder>
                 <launched>
                     <month type="MMMM">November</month>
                     <day>12</day>
