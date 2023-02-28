@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <music>
-    <history>
+    <history of="Harmony">
         <ancient>
             <country region="Mesopotamia">
                 <instrument>
@@ -54,17 +54,17 @@
         <melodies>
             <melody type="Color Melodies">
                 <list key="emotion melodies">
-                    <item>1 (root): strong, hypnotic</item>
-                      <item>2: dreamy, open<item>
-                      <item>b3:sad <item>
-                      <item>3: happy<item>
-                      <item>4 (only in minor chords): dreamy, open<item>
-                      <item>5: strong, hypnotic<item>
-                      <item>b6: sad, tense<item>
-                      <item>6: grand<item>
-                      <item>b7: funky<item>
-                      <item>7: dreamy<item>
-                      <item>8: see 1<item>
+                        <item>1 (root): strong, hypnotic</item>
+                        <item>2: dreamy, open</item>
+                        <item>b3:sad </item>
+                        <item>3: happy</item>
+                        <item>4 (only in minor chords): dreamy, open</item>
+                        <item>5: strong, hypnotic</item>
+                        <item>b6: sad, tense</item>
+                        <item>6: grand</item>
+                        <item>b7: funky</item>
+                        <item>7: dreamy</item>
+                        <item>8: see 1</item>
                 </list>
             </melody>
             <melody type="Direction Melodies">
@@ -94,7 +94,7 @@
                 <album>Uptown Special</album>
                 <release>
                     <day>10</day>
-                    <month type"MMMM">November</month>
+                    <month type="MMMM">November</month>
                     <year>2014</year>
                 </release>
             </song>
@@ -114,7 +114,7 @@
                 <album>Nippon 1981</album>
                 <release>
                     <day>25</day>
-                    <month type"MMMM">July</month>
+                    <month type="MMMM">July</month>
                     <year>1980</year>
                 </release>
             </song>
@@ -125,7 +125,7 @@
                 <album>Johnny Cash with His Hot and Blue Guitar!</album>
                 <release>
                     <day>1</day>
-                    <month type"MMMM">May</month>
+                    <month type="MMMM">May</month>
                     <year>1956</year>
                 </release>
             </song>
@@ -136,10 +136,48 @@
                 <album>Time Out</album>
                 <release>
                     <day>21</day>
-                    <month type"MMMM">September</month>
+                    <month type="MMMM">September</month>
                     <year>1959</year>
                 </release>
             </song>
         </jazz>
     </genre>
+    <industry>
+        <recording>
+            <company name="atlantic">
+                <founder>Ahmet Ertegun and Herb Abramson<founder>
+                <founded>
+                    <month type="MMMM">November</month>
+                    <year>1947</year>
+                </founded>
+                <parent_organization>
+                    <company name=" Warner Music Group">
+                        <month type="MMMM">November</month>
+                        <year>2003</year>
+                        <location>New York, New York, United States</location>
+                    </company>
+                </parent_organization>
+            </company>
+        </recording >
+        <streaming>
+            <company name="YouTube Music">
+                <founder>Ahmet Ertegun and Herb Abramson<founder>
+                <launched>
+                    <month type="MMMM">November</month>
+                    <day>12</day>
+                    <year>2015</year>
+                </launched>
+                <developer>
+                    <youtube>
+                        <founded>
+                            <month type="MMMM">February</month>
+                            <day>14</day>
+                            <year>2005</year>
+                        </founded>
+                        <revenue>28.84 billion USD</revenue>
+                    </youtube>
+                </developer>
+            </company>
+        </streaming>
+    </industry>
 </music>
